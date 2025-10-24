@@ -41,8 +41,8 @@ This project involves analyzing dataset, called "NFL Combine Testing", focusing 
 #### **1️⃣ Pivot Table**  
 Summarize athlete counts by **Year** and **Name** :  
 
-- **Rows**: `Colle`  
-- **Columns**: `Year`  
+- **Rows**: `Collge`  and so on
+- **Columns**: `Year`  and so on
 - **Values**: Count of `Name`  
 - **Grand Totals** removed  
 
@@ -56,8 +56,8 @@ Summarize athlete counts by **Year** and **Name** :
 
 ## **📈 Key Insights**  
 
-✔ **Data Relationships**: Athlete demographics and sports preferences vary by country (e.g., Germany dominates Alpine Skiing).  
-✔ **Formatting**: Ensured consistency in **IDs, dates, and financial metrics** for readability.  
+✔ **Data Relationships**: Athlete demographics and sports preferences vary by year  
+✔ **Formatting**
 ✔ **Automation**: Used **dynamic formulas (XLOOKUP, COUNTIFS)** to reduce manual updates.  
 ✔ **Tools Used**: **Excel Formulas, Pivot Tables, Conditional Formatting**  
 
