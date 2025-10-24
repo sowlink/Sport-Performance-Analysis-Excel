@@ -1,7 +1,7 @@
 
 # 📊 ** Sport-Performance-Analysis in Excel**  
 
-This project involves analyzing dataset, called "NFL Combine Testing", focusing on **treatment and analsis, interpretataion of data, and visualization presentation**. 
+This project involves analyzing dataset, called "NFL Combine Testing", focusing on **treatment and analysis, interpretataion of data, and visualization presentation**. 
 
 ---
 
